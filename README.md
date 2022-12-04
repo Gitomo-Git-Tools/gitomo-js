@@ -22,6 +22,7 @@ yarn global add gitomo
 ```sh 
 gitomo commit
 ```
+![Commit in action](./assets/commit-command.gif)
 
 - explain  Explain Git Commands
 
@@ -34,6 +35,8 @@ Supported Languages:
 
 - Arabic(ar)
 - English(en)
+
+![Explain in action](./assets/explain-command.gif)
 
 
 # How Gitomo can help you?
