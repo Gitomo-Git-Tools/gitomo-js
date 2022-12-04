@@ -1,0 +1,23 @@
+{
+  "name": "gitomo",
+  "version": "0.0.1",
+  "description": "CLI Friend that you'll need when using git",
+  "main": "./src/index.js",
+  "scripts": {},
+  "bin": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gitomo-Git-Tools/gitomo-js.git"
+  },
+  "keywords": [
+    "Git",
+    "tool",
+    "helper",
+    "cli"
+  ],
+  "author": "Louay Al-osh",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "cac": "^6.7.14"
+  }
+}

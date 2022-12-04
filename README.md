@@ -6,12 +6,34 @@ CLI Friend that you'll need when using git
 
 # Install 
 
-(in progress)
+```sh
+npm install -g gitomo
+
+# or
+
+yarn global add gitomo
+```
 
 
 # Commands
 
-(in progress)
+- commit   Commit a repository after you see your git status
+
+```sh 
+gitomo commit
+```
+
+- explain  Explain Git Commands
+
+```sh 
+gitomo explain
+gitomo explain --language ar
+```
+
+Supported Languages: 
+
+- Arabic(ar)
+- English(en)
 
 
 # How Gitomo can help you?

@@ -1,0 +1,7 @@
+{
+ "add": "Git add files to stage area",
+ "commit": "Save your changes in a new commit",
+ "clone": "Copy the repository from server into your local machine",
+ "push": "Push all your new commits to the server",
+ "pull": "Pull all server new commits into your local machine"
+}
